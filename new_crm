@@ -1,0 +1,53 @@
+{
+  :people => [
+      {
+        :id => 45,
+        :first_name => "Empty",
+        :last_name => "Empterson",
+        :employments => []
+      },
+      {
+        :id => 333,
+        :first_name => "Wayne",
+        :last_name => "Weineuss",
+        :employments =>
+        [
+          {
+            :company_id => 98,
+            :title => "God"
+          },
+          {
+            :company_id => 7,
+            :title => "Monkey grunt"
+          }
+
+        ]
+      },{
+        :id => 987766,
+        :first_name => "Single",
+        :last_name => "Singleson",
+        :employments =>
+        [
+          {
+            :company_id => 667,
+            :title => "Lord"
+          }
+        ]
+      }
+      ],
+  :companies => [
+    {
+      :id => 98,
+      :name => "gSchool Inc"
+    },
+    {
+      :id => 7,
+      :name => "Lucky Lucks"
+    },
+    {
+      :id => 667,
+      :name => "The Killing Field of Greens"
+    }
+
+  ]
+}

@@ -1,3 +1,6 @@
+Run bin/rehash2.rb
+specs present and all three challenges written as methods that take spec input.
+
 # CRM Data Challenge
 
 You just started a new job.  Your boss comes over and says that
